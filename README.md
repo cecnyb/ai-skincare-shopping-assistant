@@ -21,13 +21,11 @@ The project was built as a demo of how an AI assistant can be embedded into a pr
 
 ## Tech Stack
 
-- React / Vite
+- React 
 - FastAPI
 - Uvicorn
 - Ollama
 - Llama 3
-- Python
-- JavaScript
 
 ---
 
