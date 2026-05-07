@@ -1,0 +1,23 @@
+# Environment variables
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+
+# System
+.DS_Store
+.vscode/
+
+# Local downloads / installers
+*.deb
+
+# Runtime/generated state
+memory_store.json

@@ -1,0 +1,38 @@
+[
+  {
+    "question": "How long does shipping take?",
+    "answer": "Most orders ship within 1-2 business days. Typical delivery is 3-7 business days depending on your location. You’ll get a tracking link as soon as your order leaves our warehouse."
+  },
+  {
+    "question": "Do you ship internationally?",
+    "answer": "Yes. We currently ship to most countries. Import taxes or customs fees (if any) are set by your local authority and are not included in our checkout price."
+  },
+  {
+    "question": "What if a product irritates my skin?",
+    "answer": "Please stop using it immediately. You can contact us within 14 days and we’ll help you with next steps. For strong actives like retinal or exfoliating acids, we always recommend patch-testing on a small area first."
+  },
+  {
+    "question": "Can I return an opened product?",
+    "answer": "If you had a reaction or the product arrived damaged, contact support with a photo. Otherwise, we only accept unopened / gently tested items within 14 days of delivery."
+  },
+  {
+    "question": "Are your products cruelty-free?",
+    "answer": "We do not sell products that are tested on animals. Many of our brands are Leaping Bunny certified or follow equivalent cruelty-free standards."
+  },
+  {
+    "question": "Are these products fragrance-free?",
+    "answer": "We stock a mix of fragrance-free and lightly fragranced products. If you have sensitive or reactive skin, look for 'fragrance-free' in the description or ask our assistant 'Recommend a moisturizer with no fragrance.'"
+  },
+  {
+    "question": "In what order should I apply skincare?",
+    "answer": "General order is:\n1) Cleanser\n2) Toner / Essence\n3) Serum / Treatment\n4) Moisturizer\n5) Sunscreen (morning only)\n\nYou don't need every step. Focus on what solves your current skin concern."
+  },
+  {
+    "question": "Is retinal/retinol safe for me?",
+    "answer": "Retinoids (retinol / retinal) help with fine lines, uneven texture, and breakouts. They can also cause dryness and sensitivity at first. Do not use on broken skin, and avoid during pregnancy unless cleared with your doctor."
+  },
+  {
+    "question": "Can I talk to the AI assistant?",
+    "answer": "Yes. Our AI assistant can:\n• Suggest products for your skin type\n• Explain what an ingredient does\n• Recommend routine order\n• Help you choose between two moisturizers\n\nAsk specific questions like 'I have oily skin but I get redness. Daytime moisturizer?'"
+  }
+]

@@ -1,0 +1,4 @@
+/* Keep it minimal for MVP — add Tailwind later if you want */
+* { box-sizing: border-box; }
+body { background: #fff; color: #111; }
+a { color: inherit; text-decoration: none; }
