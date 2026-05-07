@@ -90,9 +90,10 @@ http://127.0.0.1:8002
 
 ## 4. Start the Frontend
 
-In a third terminal, navigate to web and run:
+In a third terminal run:
 
 ```bash
+cd web
 npm run dev
 ```
 
