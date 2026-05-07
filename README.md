@@ -52,8 +52,6 @@ Then pull the Llama 3 model:
 ollama pull llama3
 ```
 
-You only need to do this once.
-
 ---
 
 ## 2. Start the Agent Server
