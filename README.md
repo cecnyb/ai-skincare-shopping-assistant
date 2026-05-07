@@ -9,7 +9,7 @@ The project was built as a demo of how an AI assistant can be embedded into a pr
 
 ### Chat Interface
 
-![Chat interface demo](./assets/demo-chatbox.png)
+<img src="./assets/demo-chatbox.png" alt="Chat interface demo" width="500">
 
 ### Assistant Example
 
